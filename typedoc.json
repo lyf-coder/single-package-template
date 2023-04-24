@@ -1,0 +1,13 @@
+{
+    "plugin": ["typedoc-plugin-markdown"],
+    "cleanOutputDir": true,
+    "entryPointStrategy": "resolve",
+    "$schema": "https://typedoc.org/schema.json",
+    "entryPoints": [
+      "./src"
+    ],
+    "sort": [
+      "source-order"
+    ]
+  }
+  
